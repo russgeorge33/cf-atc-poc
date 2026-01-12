@@ -1,0 +1,9 @@
+# env/poc/network/tfstate.tfbackend
+
+resource_group_name         = "rg-atc-poc-storage"
+storage_account_name        = "statcpoc1xxxxx"
+container_name              = "terraformstate"
+key                         = "tf/env/poc/network/terraform.tfstate"
+snapshot                    = true
+
+# EOF
