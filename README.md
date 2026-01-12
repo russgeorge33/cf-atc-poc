@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Coalfire Azure Technical Challenge
 **Submission for Russell George** 
 
@@ -197,9 +195,3 @@ SSH Access to web1 VM
 
 SSH Access to web2 VM
 ![SSH web2](./validation/ssh%20from%20mgmt1%20to%20web2.png)
-=======
-# cf-atc-poc
->>>>>>> 159cd4e581242e5b5704b9204737339b5a3d8f8e
-=======
-# cf-atc-poc
->>>>>>> 159cd4e581242e5b5704b9204737339b5a3d8f8e
